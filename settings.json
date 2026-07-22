@@ -20,6 +20,9 @@
   "project_panel": {
     "dock": "left"
   },
+  "git_panel": {
+    "dock": "left"
+  },
   "agent": {
     "dock": "right",
     "default_model": {
