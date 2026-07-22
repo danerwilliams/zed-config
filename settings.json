@@ -12,11 +12,6 @@
   "icon_theme": "JetBrains New UI Icons (Dark)",
   "format_on_save": "on",
   "ensure_final_newline_on_save": true,
-  "formatter": {
-    "code_actions": {
-      "source.fixAll.eslint": true
-    }
-  },
   "project_panel": {
     "dock": "left"
   },
