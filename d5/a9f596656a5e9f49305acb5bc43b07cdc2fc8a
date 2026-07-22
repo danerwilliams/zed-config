@@ -1,0 +1,19 @@
+settings.json
+  s_25235a1526f045::t_53715cdf415594 10,19-21,23,62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d5a9f596656a5e9f49305acb5bc43b07cdc2fc8a",
+  "prompts": {},
+  "sessions": {
+    "s_25235a1526f045": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff535a7e-4bc3-40bf-801b-492c9579635a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dane Williams <danerwilliams@Danes-MacBook-Pro.local>"
+    }
+  }
+}
