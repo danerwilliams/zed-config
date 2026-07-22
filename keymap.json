@@ -14,6 +14,12 @@
     }
   },
   {
+    "context": "Editor",
+    "bindings": {
+      "cmd-shift-c": "editor::CopyPermalinkToLine"
+    }
+  },
+  {
     "context": "Editor && vim_mode == insert",
     "bindings": {
       // "j k": "vim::NormalBefore"
