@@ -59,21 +59,5 @@
     "mode": "system",
     "light": "One Light",
     "dark": "Dracula"
-  },
-  "lsp": {
-    "vtsls": {
-      "settings": {
-        "typescript": {
-          "tsserver": {
-            "maxTsServerMemory": 12288
-          }
-        },
-        "javascript": {
-          "tsserver": {
-            "maxTsServerMemory": 12288
-          }
-        }
-      }
-    }
   }
 }
