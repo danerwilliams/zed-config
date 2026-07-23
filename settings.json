@@ -12,6 +12,9 @@
   "icon_theme": "JetBrains New UI Icons (Dark)",
   "format_on_save": "on",
   "ensure_final_newline_on_save": true,
+  "minimap": {
+    "show": "never"
+  },
   "project_panel": {
     "dock": "left"
   },
@@ -26,9 +29,6 @@
     },
     "default_profile": "write",
     "always_allow_tool_actions": true
-  },
-  "minimap": {
-    "show": "auto"
   },
   "inlay_hints": {
     "enabled": false,
