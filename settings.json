@@ -22,13 +22,15 @@
     "dock": "left"
   },
   "agent": {
+    "tool_permissions": {
+      "default": "allow"
+    },
     "dock": "right",
     "default_model": {
       "provider": "zed.dev",
       "model": "claude-sonnet-4-thinking"
     },
-    "default_profile": "write",
-    "always_allow_tool_actions": true
+    "default_profile": "write"
   },
   "inlay_hints": {
     "enabled": false,
